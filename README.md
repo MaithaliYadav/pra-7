@@ -5,7 +5,7 @@
 <h3>Section : C</h3>
 <body>
 <p>The first woman air force officer in india</p>
-<img https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Vijayalakshmi_Ramanan.jpeg/250px-Vijayalakshmi_Ramanan.jpeg
+<img c:\Users\Admin\Downloads\download.jpg
 <head>
 <style>
 color:Blue;

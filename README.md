@@ -1,6 +1,7 @@
 <html>
-<head>
-    <title>Maithali.S.Yadav</title>
+
+    <title>practical No 7</title>
+    <head>
     <style>
         body {
             font-family: Arial, sans-serif;

@@ -1,7 +1,6 @@
 <html>
-
+<head>
     <title>practical No 7</title>
-    <head>
     <style>
         body {
             font-family: Arial, sans-serif;

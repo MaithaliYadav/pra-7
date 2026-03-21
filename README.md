@@ -14,6 +14,6 @@
     <h2>USN: CS25153</h2>
     <h3>Section: C</h3>
     <p>The first woman air force officer in India was Wing Commander Vijayalakshmi Ramanan.</p>
-    <img src="c:\Users\Admin\Downloads\download.jpg" alt="Description of image">
+    <img C:\Users\Maithali\Pictures>
 </body>
 </html>

@@ -5,7 +5,7 @@
 <h3>Section: C</h3>
  <body>
 <p>The first woman air force officer in India was Wing Commander Vijayalakshmi Ramanan.</p>
-<img src="C:\Users\Maithali\Pictures\Screenshots>
+<img C:\Users\Maithali\Pictures\Screenshots>
     <head>
     <style>
     h1,h2
